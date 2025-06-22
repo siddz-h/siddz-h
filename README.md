@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhesh</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 A Passionate Full-stack Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://img.freepik.com/premium-vector/modern-3d-illustration-young-man-programming-concept_145666-1709.jpg?w=2000" alt="coding" width="300" />
